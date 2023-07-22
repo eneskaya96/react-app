@@ -21,6 +21,9 @@ install react
 
     npm i -D react react-dom
 
+install eslint for jsx
+
+    npm install -D eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 
 
 Run for local 
